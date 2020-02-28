@@ -1,0 +1,72 @@
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.exe
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\obj\x86\Debug\GameProject.csproj.CoreCompileInputs.cache
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\burger.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\explosion.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\frenchfries.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\teddybear.xnb
+D:\C# Assignment\ProgrammingAssignment4\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\teddybearprojectile.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDamage.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerDeath.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\BurgerShot.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\Explosion.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyBounce.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\audio\TeddyShot.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\fonts\Arial20.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\burger.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\explosion.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\frenchfries.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\teddybear.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\Content\sprites\teddybearprojectile.xnb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.exe
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\GameProject.pdb
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\C# Assignment\GameProject 1\GameProject\GameProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\C# Assignment\GameProject 1\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+D:\C# Assignment\GameProject 1\GameProject\GameProject\obj\x86\Debug\GameProject.csproj.CoreCompileInputs.cache
+D:\C# Assignment\GameProject 1\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+D:\C# Assignment\GameProject 1\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
